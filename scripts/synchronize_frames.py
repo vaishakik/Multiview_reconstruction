@@ -3,7 +3,7 @@ import os
 import sys
 import shutil
 import argparse
-sys.path.append("../../Utility")
+sys.path.append("../Utility")
 from file import *
 # original code is written by Andrew. W. Chen
 # input: openni style unsynchronized color and depth images
